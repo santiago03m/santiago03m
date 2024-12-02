@@ -1,6 +1,5 @@
 # Hi there 👋, Santiago here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=santiago03m.santiago03m) 
-[![GitHub followers](https://img.shields.io/github/followers/santiago03m.svg?style=social&label=Follow)](https://github.com/santiago03m?tab=followers)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=santiago03m.repoName) [![GitHub followers](https://img.shields.io/github/followers/santiago03m.svg?style=social&label=Follow)](https://github.com/santiago03m?tab=followers)<br/>
 <!--
 **santiago03m/santiago03m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
